@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d2ad048-f5df-4b9a-8daa-eb9e48de2a2a" name="Changes" comment="Working project">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject123.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/migrations/0002_entry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/migrations/0003_topic_owner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/edit_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_logs/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/registration/logged_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/registration/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d2ad048-f5df-4b9a-8daa-eb9e48de2a2a" name="Changes" comment="Working project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
